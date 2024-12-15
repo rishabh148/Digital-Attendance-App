@@ -1,0 +1,10 @@
+flask
+flask-pymongo
+bcrypt
+scikit-learn
+face_recognition
+opencv_python
+openpyxl
+geocoder
+flask_cors
+C:\Users\PIYUSH KUMAR\Desktop\Digital-Attendance-System\Flask\dlib-19.24.1-cp311-cp311-win_amd64.whl
